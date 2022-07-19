@@ -7,7 +7,8 @@ and its files are available at https://github.com/NatLibFi/Finto-data/tree/maste
 
 The eariler work and editorial group was described at https://www.kiwi.fi/display/AFO/
 
-This repository site will be used for translations and extraction of Finnish terms for Agrovoc Thesaurus maintained by FAO at https://agrovoc.uniroma2.it/agrovoc/agrovoc/en/.
+This repository site will be used for translations and extraction of Finnish terms for Agrovoc Thesaurus maintained by FAO at https://agrovoc.uniroma2.it/agrovoc/agrovoc/en/.   As of July 2022 there are 423 Finnish skos:prefLabel and 1 skos:altLabel.
+We hope to at least triple that number.
 
 Any further development of this ontology is based on volunteer input by subject specialists. 
 As there is no funding to support further placement at finto.fi we are studying possibilities to find another repository for this ontology.
