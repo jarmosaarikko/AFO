@@ -3,6 +3,7 @@ AFO - Natural resource and environment ontology
 
 THe maintenance of AFO ontology has ended. 
 A frozen version of AFO is available at http://www.yso.fi/onto/afo/
+and its files are available at https://github.com/NatLibFi/Finto-data/tree/master/vocabularies/afo.
 
 The eariler work and editorial group was described at https://www.kiwi.fi/display/AFO/
 
